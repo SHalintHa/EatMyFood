@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006330820868",
+    "firebase_url": "https://eatmyfood-2518f.firebaseio.com",
+    "project_id": "eatmyfood-2518f",
+    "storage_bucket": "eatmyfood-2518f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006330820868:android:55f5c61364214519",
+        "android_client_info": {
+          "package_name": "com.emiliadev.eatmyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006330820868-j66u22hrc41edk7m2enas11nrqod21vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emiliadev.eatmyfood",
+            "certificate_hash": "d00d4ec02fdaab048e1981ff8fd9e0bbf480e657"
+          }
+        },
+        {
+          "client_id": "1006330820868-qc2ae3rpcdshkt8irh4duhc40kfrhafm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4k62A5c8xkGW8mAZMrTAvSV_CG0b06YU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006330820868-qc2ae3rpcdshkt8irh4duhc40kfrhafm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
